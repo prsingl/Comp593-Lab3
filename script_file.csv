@@ -1,0 +1,220 @@
+ORDER ID	ORDER DATE	ITEM NUMBER	PRODUCT LINE	PRODUCT CODE	ITEM QUANTITY	ITEM PRICE	STATUS	CUSTOMER NAME	ADDRESS	CITY	STATE	POSTAL CODE	COUNTRY
+10295	9/10/2020	2	Ships	S700_2610	44	58.55	Shipped	Gifts4AllAges.com	8616 Spinnaker Dr.	Boston	MA	51003	USA
+10306	10/14/2020	1	Ships	S700_2610	43	75.17	Shipped	AV Stores, Co.	Fauntleroy Circus	Manchester		EC2 5NT	UK
+10316	11/1/2020	18	Ships	S700_2610	48	74.45	Shipped	giftsbymail.co.uk	Garden House Crowther Way	Cowes	Isle of Wight	PO31 7PJ	UK
+10327	11/10/2020	1	Ships	S700_2610	21	96.31	Resolved	Danish Wholesale Imports	Vinb'ltet 34	Kobenhavn		1734	Denmark
+10339	11/23/2020	9	Ships	S700_2610	50	74.35	Shipped	Tokyo Collectables, Ltd	2-2-8 Roppongi	Minato-ku	Tokyo	106-0032	Japan
+10350	12/2/2020	12	Ships	S700_2610	29	75.35	Shipped	Euro Shopping Channel	C/ Moralzarzal, 86	Madrid		28034	Spain
+10373	1/31/2021	16	Ships	S700_2610	41	70.33	Shipped	Oulu Toy Supplies, Inc.	Torikatu 38	Oulu		90110	Finland
+10386	3/1/2021	10	Ships	S700_2610	37	100	Resolved	Euro Shopping Channel	C/ Moralzarzal, 86	Madrid		28034	Spain
+10397	3/28/2021	4	Ships	S700_2610	22	66.5	Shipped	Alpha Cognac	1 rue Alsace-Lorraine	Toulouse		31000	France
+10414	5/6/2021	4	Ships	S700_2610	31	75.89	On Hold	Gifts4AllAges.com	8616 Spinnaker Dr.	Boston	MA	51003	USA
+10103	1/29/2019	6	Classic Cars	S700_2824	42	100	Shipped	Baane Mini Imports	Erling Skakkes gate 78	Stavern		4110	Norway
+10114	4/1/2019	10	Classic Cars	S700_2824	42	100	Shipped	La Corne D'abondance, Co.	265, boulevard Charonne	Paris		75012	France
+10126	5/28/2019	6	Classic Cars	S700_2824	45	100	Shipped	Corrida Auto Replicas, Ltd	C/ Araquil, 67	Madrid		28023	Spain
+10140	7/24/2019	6	Classic Cars	S700_2824	36	100	Shipped	Technics Stores Inc.	9408 Furth Circle	Burlingame	CA	94217	USA
+10150	9/19/2019	3	Classic Cars	S700_2824	20	100	Shipped	Dragon Souveniers, Ltd.	Bronz Sok., Bronz Apt. 3/6 Tesvikiye	Singapore		79903	Singapore
+10164	10/21/2019	4	Classic Cars	S700_2824	39	81.93	Resolved	Mini Auto Werke	Kirchgasse 6	Graz		8010	Austria
+10175	11/6/2019	11	Classic Cars	S700_2824	42	85.98	Shipped	Stylish Desk Decors, Co.	35 King George	London		WX3 6FW	UK
+10183	11/13/2019	3	Classic Cars	S700_2824	23	86.99	Shipped	Classic Gift Ideas, Inc	782 First Street	Philadelphia	PA	71270	USA
+10194	11/25/2019	6	Classic Cars	S700_2824	26	89.01	Shipped	Saveley & Henriot, Co.	2, rue du Commerce	Lyon		69004	France
+10206	12/5/2019	1	Classic Cars	S700_2824	33	100	Shipped	Canadian Gift Exchange Network	1900 Oak St.	Vancouver	BC	V3F 2K1	Canada
+10217	2/4/2020	6	Classic Cars	S700_2824	31	88	Shipped	Handji Gifts& Co	Village Close - 106 Linden Road Sandown	Singapore		69045	Singapore
+10229	3/11/2020	11	Classic Cars	S700_2824	50	100	Shipped	Mini Gifts Distributors Ltd.	5677 Strong St.	San Rafael	CA	97562	USA
+10245	5/4/2020	4	Classic Cars	S700_2824	44	100	Shipped	Super Scale Inc.	567 North Pendale Street	New Haven	CT	97823	USA
+10258	6/15/2020	1	Classic Cars	S700_2824	45	80.92	Shipped	Tokyo Collectables, Ltd	2-2-8 Roppongi	Minato-ku	Tokyo	106-0032	Japan
+10270	7/19/2020	4	Classic Cars	S700_2824	46	88	Shipped	Souveniers And Things Co.	Monitor Money Building, 815 Pacific Hwy	Chatswood	NSW	2067	Australia
+10281	8/19/2020	11	Classic Cars	S700_2824	27	85.98	Shipped	Diecast Classics Inc.	7586 Pompton St.	Allentown	PA	70267	USA
+10291	9/8/2020	6	Classic Cars	S700_2824	28	100	Shipped	Scandinavian Gift Ideas	Kergatan 24	Boras		S-844 67	Sweden
+10304	10/11/2020	1	Classic Cars	S700_2824	40	100	Shipped	Auto Assoc. & Cie.	67, avenue de l'Europe	Versailles		78000	France
+10313	10/22/2020	9	Classic Cars	S700_2824	30	99.13	Shipped	Canadian Gift Exchange Network	1900 Oak St.	Vancouver	BC	V3F 2K1	Canada
+10324	11/5/2020	5	Classic Cars	S700_2824	34	100	Shipped	Vitachrome Inc.	2678 Kingston Rd.	NYC	NY	10022	USA
+10336	11/20/2020	2	Classic Cars	S700_2824	46	100	Shipped	La Corne D'abondance, Co.	265, boulevard Charonne	Paris		75012	France
+10348	11/1/2020	7	Classic Cars	S700_2824	32	82.83	Shipped	Corrida Auto Replicas, Ltd	C/ Araquil, 67	Madrid		28023	Spain
+10358	12/10/2020	3	Classic Cars	S700_2824	27	100	Shipped	Euro Shopping Channel	C/ Moralzarzal, 86	Madrid		28034	Spain
+10371	1/23/2021	3	Classic Cars	S700_2824	34	100	Shipped	Mini Gifts Distributors Ltd.	5677 Strong St.	San Rafael	CA	97562	USA
+10382	2/17/2021	9	Classic Cars	S700_2824	34	54.84	Shipped	Mini Gifts Distributors Ltd.	5677 Strong St.	San Rafael	CA	97562	USA
+10411	5/1/2021	4	Classic Cars	S700_2824	34	100	Shipped	Quebec Home Shopping Network	43 rue St. Laurent	Montreal	Quebec	H1J 1C3	Canada
+10424	5/31/2021	1	Classic Cars	S700_2824	46	80.92	In Process	Euro Shopping Channel	C/ Moralzarzal, 86	Madrid		28034	Spain
+10106	2/17/2019	1	Planes	S700_2834	32	100	Shipped	Rovelli Gifts	Via Ludovico il Moro 22	Bergamo		24100	Italy
+10120	4/29/2019	7	Planes	S700_2834	24	100	Shipped	Australian Collectors, Co.	636 St Kilda Road	Melbourne	Victoria	3004	Australia
+10133	6/27/2019	2	Planes	S700_2834	27	99.67	Shipped	Euro Shopping Channel	C/ Moralzarzal, 86	Madrid		28034	Spain
+10145	8/25/2019	13	Planes	S700_2834	20	100	Shipped	Toys4GrownUps.com	78934 Hillside Dr.	Pasadena	CA	90003	USA
+10168	10/28/2019	8	Planes	S700_2834	36	100	Shipped	Technics Stores Inc.	9408 Furth Circle	Burlingame	CA	94217	USA
+10188	11/18/2019	8	Planes	S700_2834	29	100	Shipped	Herkku Gifts	Drammen 121, PR 744 Sentrum	Bergen		N 5804	Norway
+10210	1/12/2020	6	Planes	S700_2834	25	100	Shipped	Osaka Souveniers Co.	Dojima Avanza 4F, 1-6-20 Dojima, Kita-ku	Osaka	Osaka	530-0003	Japan
+10223	2/20/2020	8	Planes	S700_2834	29	100	Shipped	Australian Collectors, Co.	636 St Kilda Road	Melbourne	Victoria	3004	Australia
+10235	4/2/2020	2	Planes	S700_2834	25	96.11	Shipped	Royal Canadian Collectables, Ltd.	23 Tsawassen Blvd.	Tsawassen	BC	T2F 8M4	Canada
+10250	5/11/2020	3	Planes	S700_2834	44	100	Shipped	The Sharp Gifts Warehouse	3086 Ingle Ln.	San Jose	CA	94217	USA
+10263	6/28/2020	9	Planes	S700_2834	47	100	Shipped	Gift Depot Inc.	25593 South Bay Ln.	Bridgewater	CT	97562	USA
+10275	7/23/2020	8	Planes	S700_2834	48	100	Shipped	La Rochelle Gifts	67, rue des Cinquante Otages	Nantes		44000	France
+10285	8/27/2020	13	Planes	S700_2834	45	100	Shipped	Marta's Replicas Co.	39323 Spinnaker Dr.	Cambridge	MA	51247	USA
+10297	9/16/2020	3	Planes	S700_2834	35	100	Shipped	Clover Collections, Co.	25 Maiden Lane	Dublin		2	Ireland
+10308	10/15/2020	6	Planes	S700_2834	31	100	Shipped	Mini Classics	3758 North Pendale Street	White Plains	NY	24067	USA
+10318	11/2/2020	8	Planes	S700_2834	50	100	Shipped	Diecast Classics Inc.	7586 Pompton St.	Allentown	PA	70267	USA
+10328	11/12/2020	11	Planes	S700_2834	33	100	Shipped	Rovelli Gifts	Via Ludovico il Moro 22	Bergamo		24100	Italy
+10340	11/24/2020	6	Planes	S700_2834	29	100	Shipped	Enaco Distributors	Rambla de Catalua¤a, 23	Barcelona		8022	Spain
+10353	12/4/2020	4	Planes	S700_2834	48	68.8	Shipped	Gift Ideas Corp.	2440 Pompton St.	Glendale	CT	97561	USA
+10361	12/17/2020	5	Planes	S700_2834	44	72.42	Shipped	Souveniers And Things Co.	Monitor Money Building, 815 Pacific Hwy	Chatswood	NSW	2067	Australia
+10375	2/3/2021	10	Planes	S700_2834	25	66.73	Shipped	La Rochelle Gifts	67, rue des Cinquante Otages	Nantes		44000	France
+10388	3/3/2021	3	Planes	S700_2834	50	100	Shipped	FunGiftIdeas.com	1785 First Street	New Bedford	MA	50553	USA
+10398	3/30/2021	9	Planes	S700_2834	23	100	Shipped	Reims Collectables	59 rue de l'Abbaye	Reims		51100	France
+10401	4/3/2021	2	Planes	S700_2834	21	96.11	On Hold	Tekni Collectables Inc.	7476 Moss Rd.	Newark	NJ	94019	USA
+10416	5/10/2021	3	Planes	S700_2834	41	100	Shipped	L'ordine Souveniers	Strada Provinciale 124	Reggio Emilia		42100	Italy
+10106	2/17/2019	8	Planes	S700_3167	44	74.4	Shipped	Rovelli Gifts	Via Ludovico il Moro 22	Bergamo		24100	Italy
+10120	4/29/2019	14	Planes	S700_3167	43	76	Shipped	Australian Collectors, Co.	636 St Kilda Road	Melbourne	Victoria	3004	Australia
+10143	8/10/2019	3	Planes	S700_3167	28	96	Shipped	Mini Creations Ltd.	4575 Hillside Dr.	New Bedford	MA	50553	USA
+10155	10/6/2019	1	Planes	S700_3167	43	86.4	Shipped	Toys of Finland, Co.	Keskuskatu 45	Helsinki		21240	Finland
+10168	10/28/2019	15	Planes	S700_3167	48	96	Shipped	Technics Stores Inc.	9408 Furth Circle	Burlingame	CA	94217	USA
+10199	12/1/2019	3	Planes	S700_3167	38	82.4	Shipped	West Coast Collectables Co.	3675 Furth Circle	Burbank	CA	94019	USA
+10210	1/12/2020	13	Planes	S700_3167	31	86.4	Shipped	Osaka Souveniers Co.	Dojima Avanza 4F, 1-6-20 Dojima, Kita-ku	Osaka	Osaka	530-0003	Japan
+10223	2/20/2020	15	Planes	S700_3167	26	67.2	Shipped	Australian Collectors, Co.	636 St Kilda Road	Melbourne	Victoria	3004	Australia
+10235	4/2/2020	9	Planes	S700_3167	32	92	Shipped	Royal Canadian Collectables, Ltd.	23 Tsawassen Blvd.	Tsawassen	BC	T2F 8M4	Canada
+10250	5/11/2020	10	Planes	S700_3167	44	67.2	Shipped	The Sharp Gifts Warehouse	3086 Ingle Ln.	San Jose	CA	94217	USA
+10262	6/24/2020	5	Planes	S700_3167	27	76	Cancelled	Euro Shopping Channel	C/ Moralzarzal, 86	Madrid		28034	Spain
+10275	7/23/2020	15	Planes	S700_3167	43	73.6	Shipped	La Rochelle Gifts	67, rue des Cinquante Otages	Nantes		44000	France
+10284	8/21/2020	7	Planes	S700_3167	25	69.6	Shipped	Norway Gifts By Mail, Co.	Drammensveien 126 A, PB 744 Sentrum	Oslo		N 0106	Norway
+10296	9/15/2020	3	Planes	S700_3167	22	80.8	Shipped	Bavarian Collectables Imports, Co.	Hansastr. 15	Munich		80686	Germany
+10308	10/15/2020	13	Planes	S700_3167	21	87.2	Shipped	Mini Classics	3758 North Pendale Street	White Plains	NY	24067	USA
+10316	11/1/2020	5	Planes	S700_3167	48	75.2	Shipped	giftsbymail.co.uk	Garden House Crowther Way	Cowes	Isle of Wight	PO31 7PJ	UK
+10328	11/12/2020	13	Planes	S700_3167	33	64	Shipped	Rovelli Gifts	Via Ludovico il Moro 22	Bergamo		24100	Italy
+10341	11/24/2020	5	Planes	S700_3167	34	100	Shipped	Salzburg Collectables	Geislweg 14	Salzburg		5020	Austria
+10353	12/4/2020	6	Planes	S700_3167	43	81.95	Shipped	Gift Ideas Corp.	2440 Pompton St.	Glendale	CT	97561	USA
+10361	12/17/2020	10	Planes	S700_3167	44	100	Shipped	Souveniers And Things Co.	Monitor Money Building, 815 Pacific Hwy	Chatswood	NSW	2067	Australia
+10375	2/3/2021	11	Planes	S700_3167	44	100	Shipped	La Rochelle Gifts	67, rue des Cinquante Otages	Nantes		44000	France
+10386	3/1/2021	17	Planes	S700_3167	32	94.34	Resolved	Euro Shopping Channel	C/ Moralzarzal, 86	Madrid		28034	Spain
+10398	3/30/2021	10	Planes	S700_3167	29	65.6	Shipped	Reims Collectables	59 rue de l'Abbaye	Reims		51100	France
+10401	4/3/2021	9	Planes	S700_3167	77	92	On Hold	Tekni Collectables Inc.	7476 Moss Rd.	Newark	NJ	94019	USA
+10416	5/10/2021	10	Planes	S700_3167	39	67.2	Shipped	L'ordine Souveniers	Strada Provinciale 124	Reggio Emilia		42100	Italy
+10105	2/11/2019	6	Ships	S700_3505	39	81.14	Shipped	Danish Wholesale Imports	Vinb'ltet 34	Kobenhavn		1734	Denmark
+10118	4/21/2019	1	Ships	S700_3505	36	100	Shipped	Enaco Distributors	Rambla de Catalua¤a, 23	Barcelona		8022	Spain
+10129	6/12/2019	6	Ships	S700_3505	42	91.15	Shipped	Stylish Desk Decors, Co.	35 King George	London		WX3 6FW	UK
+10142	8/8/2019	3	Ships	S700_3505	21	100	Shipped	Mini Gifts Distributors Ltd.	5677 Strong St.	San Rafael	CA	97562	USA
+10153	9/28/2019	2	Ships	S700_3505	50	88.15	Shipped	Euro Shopping Channel	C/ Moralzarzal, 86	Madrid		28034	Spain
+10167	10/23/2019	13	Ships	S700_3505	24	100	Cancelled	Scandinavian Gift Ideas	Kergatan 24	Boras		S-844 67	Sweden
+10177	11/7/2019	4	Ships	S700_3505	44	92.16	Shipped	CAF Imports	Merchants House, 27-30 Merchant's Quay	Madrid		28023	Spain
+10185	11/14/2019	4	Ships	S700_3505	37	100	Shipped	Mini Creations Ltd.	4575 Hillside Dr.	New Bedford	MA	50553	USA
+10197	11/26/2019	10	Ships	S700_3505	27	92.16	Shipped	Enaco Distributors	Rambla de Catalua¤a, 23	Barcelona		8022	Spain
+10208	1/2/2020	4	Ships	S700_3505	37	100	Shipped	Saveley & Henriot, Co.	2, rue du Commerce	Lyon		69004	France
+10222	2/19/2020	16	Ships	S700_3505	38	100	Shipped	Collectable Mini Designs Co.	361 Furth Circle	San Diego	CA	91217	USA
+10232	3/20/2020	1	Ships	S700_3505	48	96.16	Shipped	giftsbymail.co.uk	Garden House Crowther Way	Cowes	Isle of Wight	PO31 7PJ	UK
+10248	5/7/2020	7	Ships	S700_3505	30	100	Cancelled	Land of Toys Inc.	897 Long Airport Avenue	NYC	NY	10022	USA
+10261	6/17/2020	5	Ships	S700_3505	25	88.15	Shipped	Quebec Home Shopping Network	43 rue St. Laurent	Montreal	Quebec	H1J 1C3	Canada
+10273	7/21/2020	8	Ships	S700_3505	40	86.15	Shipped	Petit Auto	Rue Joseph-Bens 532	Bruxelles		B-1180	Belgium
+10283	8/20/2020	10	Ships	S700_3505	22	88.15	Shipped	Royal Canadian Collectables, Ltd.	23 Tsawassen Blvd.	Tsawassen	BC	T2F 8M4	Canada
+10295	9/10/2020	5	Ships	S700_3505	34	100	Shipped	Gifts4AllAges.com	8616 Spinnaker Dr.	Boston	MA	51003	USA
+10306	10/14/2020	4	Ships	S700_3505	32	90.15	Shipped	AV Stores, Co.	Fauntleroy Circus	Manchester		EC2 5NT	UK
+10315	10/29/2020	3	Ships	S700_3505	31	86.15	Shipped	La Rochelle Gifts	67, rue des Cinquante Otages	Nantes		44000	France
+10327	11/10/2020	2	Ships	S700_3505	43	80	Resolved	Danish Wholesale Imports	Vinb'ltet 34	Kobenhavn		1734	Denmark
+10337	11/21/2020	1	Ships	S700_3505	31	89.38	Shipped	Classic Legends Inc.	5905 Pompton St.	NYC	NY	10022	USA
+10350	12/2/2020	13	Ships	S700_3505	31	77.34	Shipped	Euro Shopping Channel	C/ Moralzarzal, 86	Madrid		28034	Spain
+10373	1/31/2021	2	Ships	S700_3505	34	96.34	Shipped	Oulu Toy Supplies, Inc.	Torikatu 38	Oulu		90110	Finland
+10386	3/1/2021	2	Ships	S700_3505	45	92.08	Resolved	Euro Shopping Channel	C/ Moralzarzal, 86	Madrid		28034	Spain
+10397	3/28/2021	3	Ships	S700_3505	48	100	Shipped	Alpha Cognac	1 rue Alsace-Lorraine	Toulouse		31000	France
+10414	5/6/2021	7	Ships	S700_3505	28	100	On Hold	Gifts4AllAges.com	8616 Spinnaker Dr.	Boston	MA	51003	USA
+10105	2/11/2019	7	Ships	S700_3962	22	100	Shipped	Danish Wholesale Imports	Vinb'ltet 34	Kobenhavn		1734	Denmark
+10117	4/16/2019	1	Ships	S700_3962	45	83.42	Shipped	Dragon Souveniers, Ltd.	Bronz Sok., Bronz Apt. 3/6 Tesvikiye	Singapore		79903	Singapore
+10129	6/12/2019	7	Ships	S700_3962	30	85.41	Shipped	Stylish Desk Decors, Co.	35 King George	London		WX3 6FW	UK
+10142	8/8/2019	4	Ships	S700_3962	38	85.41	Shipped	Mini Gifts Distributors Ltd.	5677 Strong St.	San Rafael	CA	97562	USA
+10153	9/28/2019	3	Ships	S700_3962	20	100	Shipped	Euro Shopping Channel	C/ Moralzarzal, 86	Madrid		28034	Spain
+10167	10/23/2019	14	Ships	S700_3962	28	100	Cancelled	Scandinavian Gift Ideas	Kergatan 24	Boras		S-844 67	Sweden
+10177	11/7/2019	5	Ships	S700_3962	24	100	Shipped	CAF Imports	Merchants House, 27-30 Merchant's Quay	Madrid		28023	Spain
+10185	11/14/2019	5	Ships	S700_3962	22	79.45	Shipped	Mini Creations Ltd.	4575 Hillside Dr.	New Bedford	MA	50553	USA
+10197	11/26/2019	11	Ships	S700_3962	35	93.35	Shipped	Enaco Distributors	Rambla de Catalua¤a, 23	Barcelona		8022	Spain
+10208	1/2/2020	5	Ships	S700_3962	33	85.41	Shipped	Saveley & Henriot, Co.	2, rue du Commerce	Lyon		69004	France
+10222	2/19/2020	17	Ships	S700_3962	31	95.34	Shipped	Collectable Mini Designs Co.	361 Furth Circle	San Diego	CA	91217	USA
+10232	3/20/2020	2	Ships	S700_3962	35	82.43	Shipped	giftsbymail.co.uk	Garden House Crowther Way	Cowes	Isle of Wight	PO31 7PJ	UK
+10248	5/7/2020	8	Ships	S700_3962	35	90.37	Cancelled	Land of Toys Inc.	897 Long Airport Avenue	NYC	NY	10022	USA
+10261	6/17/2020	6	Ships	S700_3962	50	81.43	Shipped	Quebec Home Shopping Network	43 rue St. Laurent	Montreal	Quebec	H1J 1C3	Canada
+10273	7/21/2020	9	Ships	S700_3962	26	100	Shipped	Petit Auto	Rue Joseph-Bens 532	Bruxelles		B-1180	Belgium
+10283	8/20/2020	11	Ships	S700_3962	38	89.38	Shipped	Royal Canadian Collectables, Ltd.	23 Tsawassen Blvd.	Tsawassen	BC	T2F 8M4	Canada
+10294	9/10/2020	1	Ships	S700_3962	45	100	Shipped	Online Mini Collectables	7635 Spinnaker Dr.	Brickhaven	MA	58339	USA
+10306	10/14/2020	5	Ships	S700_3962	30	100	Shipped	AV Stores, Co.	Fauntleroy Circus	Manchester		EC2 5NT	UK
+10315	10/29/2020	4	Ships	S700_3962	37	91.37	Shipped	La Rochelle Gifts	67, rue des Cinquante Otages	Nantes		44000	France
+10327	11/10/2020	3	Ships	S700_3962	37	86.61	Resolved	Danish Wholesale Imports	Vinb'ltet 34	Kobenhavn		1734	Denmark
+10337	11/21/2020	7	Ships	S700_3962	36	71.89	Shipped	Classic Legends Inc.	5905 Pompton St.	NYC	NY	10022	USA
+10350	12/2/2020	16	Ships	S700_3962	25	100	Shipped	Euro Shopping Channel	C/ Moralzarzal, 86	Madrid		28034	Spain
+10373	1/31/2021	8	Ships	S700_3962	37	100	Shipped	Oulu Toy Supplies, Inc.	Torikatu 38	Oulu		90110	Finland
+10386	3/1/2021	3	Ships	S700_3962	30	95.48	Resolved	Euro Shopping Channel	C/ Moralzarzal, 86	Madrid		28034	Spain
+10397	3/28/2021	2	Ships	S700_3962	36	100	Shipped	Alpha Cognac	1 rue Alsace-Lorraine	Toulouse		31000	France
+10414	5/6/2021	8	Ships	S700_3962	27	90.37	On Hold	Gifts4AllAges.com	8616 Spinnaker Dr.	Boston	MA	51003	USA
+10106	2/17/2019	10	Planes	S700_4002	48	61.44	Shipped	Rovelli Gifts	Via Ludovico il Moro 22	Bergamo		24100	Italy
+10119	4/28/2019	1	Planes	S700_4002	26	59.22	Shipped	Salzburg Collectables	Geislweg 14	Salzburg		5020	Austria
+10131	6/16/2019	2	Planes	S700_4002	26	85.13	Shipped	Gift Ideas Corp.	2440 Pompton St.	Glendale	CT	97561	USA
+10143	8/10/2019	5	Planes	S700_4002	34	85.87	Shipped	Mini Creations Ltd.	4575 Hillside Dr.	New Bedford	MA	50553	USA
+10155	10/6/2019	3	Planes	S700_4002	44	85.87	Shipped	Toys of Finland, Co.	Keskuskatu 45	Helsinki		21240	Finland
+10168	10/28/2019	17	Planes	S700_4002	39	82.91	Shipped	Technics Stores Inc.	9408 Furth Circle	Burlingame	CA	94217	USA
+10178	11/8/2019	2	Planes	S700_4002	45	76.25	Shipped	Alpha Cognac	1 rue Alsace-Lorraine	Toulouse		31000	France
+10198	11/27/2019	2	Planes	S700_4002	40	63.67	Shipped	Cruz & Sons Co.	15 McCallum Street - NatWest Center #13-03	Makati City		1227 MM	Philippines
+10210	1/12/2020	15	Planes	S700_4002	42	70.33	Shipped	Osaka Souveniers Co.	Dojima Avanza 4F, 1-6-20 Dojima, Kita-ku	Osaka	Osaka	530-0003	Japan
+10222	2/19/2020	2	Planes	S700_4002	43	74.03	Shipped	Collectable Mini Designs Co.	361 Furth Circle	San Diego	CA	91217	USA
+10235	4/2/2020	11	Planes	S700_4002	34	72.55	Shipped	Royal Canadian Collectables, Ltd.	23 Tsawassen Blvd.	Tsawassen	BC	T2F 8M4	Canada
+10250	5/11/2020	12	Planes	S700_4002	38	62.19	Shipped	The Sharp Gifts Warehouse	3086 Ingle Ln.	San Jose	CA	94217	USA
+10262	6/24/2020	7	Planes	S700_4002	35	71.07	Cancelled	Euro Shopping Channel	C/ Moralzarzal, 86	Madrid		28034	Spain
+10275	7/23/2020	17	Planes	S700_4002	31	72.55	Shipped	La Rochelle Gifts	67, rue des Cinquante Otages	Nantes		44000	France
+10284	8/21/2020	9	Planes	S700_4002	32	64.41	Shipped	Norway Gifts By Mail, Co.	Drammensveien 126 A, PB 744 Sentrum	Oslo		N 0106	Norway
+10296	9/15/2020	5	Planes	S700_4002	47	86.62	Shipped	Bavarian Collectables Imports, Co.	Hansastr. 15	Munich		80686	Germany
+10308	10/15/2020	15	Planes	S700_4002	39	68.11	Shipped	Mini Classics	3758 North Pendale Street	White Plains	NY	24067	USA
+10316	11/1/2020	7	Planes	S700_4002	44	62.19	Shipped	giftsbymail.co.uk	Garden House Crowther Way	Cowes	Isle of Wight	PO31 7PJ	UK
+10328	11/12/2020	12	Planes	S700_4002	39	85.87	Shipped	Rovelli Gifts	Via Ludovico il Moro 22	Bergamo		24100	Italy
+10339	11/23/2020	8	Planes	S700_4002	50	57.86	Shipped	Tokyo Collectables, Ltd	2-2-8 Roppongi	Minato-ku	Tokyo	106-0032	Japan
+10352	12/3/2020	1	Planes	S700_4002	22	75.51	Shipped	Auto-Moto Classics Inc.	16780 Pompton St.	Brickhaven	MA	58339	USA
+10361	12/17/2020	11	Planes	S700_4002	35	100	Shipped	Souveniers And Things Co.	Monitor Money Building, 815 Pacific Hwy	Chatswood	NSW	2067	Australia
+10373	1/31/2021	17	Planes	S700_4002	45	55.62	Shipped	Oulu Toy Supplies, Inc.	Torikatu 38	Oulu		90110	Finland
+10386	3/1/2021	15	Planes	S700_4002	44	86.4	Resolved	Euro Shopping Channel	C/ Moralzarzal, 86	Madrid		28034	Spain
+10398	3/30/2021	12	Planes	S700_4002	36	87.36	Shipped	Reims Collectables	59 rue de l'Abbaye	Reims		51100	France
+10401	4/3/2021	11	Planes	S700_4002	28	72.55	On Hold	Tekni Collectables Inc.	7476 Moss Rd.	Newark	NJ	94019	USA
+10416	5/10/2021	12	Planes	S700_4002	43	62.19	Shipped	L'ordine Souveniers	Strada Provinciale 124	Reggio Emilia		42100	Italy
+10106	2/17/2019	15	Planes	S72_1253	48	52.64	Shipped	Rovelli Gifts	Via Ludovico il Moro 22	Bergamo		24100	Italy
+10119	4/28/2019	6	Planes	S72_1253	28	48.17	Shipped	Salzburg Collectables	Geislweg 14	Salzburg		5020	Austria
+10131	6/16/2019	7	Planes	S72_1253	21	41.71	Shipped	Gift Ideas Corp.	2440 Pompton St.	Glendale	CT	97561	USA
+10143	8/10/2019	10	Planes	S72_1253	37	50.65	Shipped	Mini Creations Ltd.	4575 Hillside Dr.	New Bedford	MA	50553	USA
+10155	10/6/2019	8	Planes	S72_1253	34	49.16	Shipped	Toys of Finland, Co.	Keskuskatu 45	Helsinki		21240	Finland
+10167	10/23/2019	4	Planes	S72_1253	40	41.71	Cancelled	Scandinavian Gift Ideas	Kergatan 24	Boras		S-844 67	Sweden
+10178	11/8/2019	7	Planes	S72_1253	45	51.15	Shipped	Alpha Cognac	1 rue Alsace-Lorraine	Toulouse		31000	France
+10186	11/14/2019	4	Planes	S72_1253	28	52.14	Shipped	Double Decker Gift Stores, Ltd	120 Hanover Sq.	London		WA1 1DP	UK
+10197	11/26/2019	1	Planes	S72_1253	29	41.71	Shipped	Enaco Distributors	Rambla de Catalua¤a, 23	Barcelona		8022	Spain
+10209	1/9/2020	3	Planes	S72_1253	48	44.69	Shipped	Men 'R' US Retailers, Ltd.	6047 Douglas Av.	Los Angeles	CA		USA
+10222	2/19/2020	7	Planes	S72_1253	31	45.69	Shipped	Collectable Mini Designs Co.	361 Furth Circle	San Diego	CA	91217	USA
+10249	5/8/2020	3	Planes	S72_1253	32	57.61	Shipped	Cambridge Collectables Co.	4658 Baden Av.	Cambridge	MA	51247	USA
+10262	6/24/2020	12	Planes	S72_1253	21	57.11	Cancelled	Euro Shopping Channel	C/ Moralzarzal, 86	Madrid		28034	Spain
+10274	7/21/2020	4	Planes	S72_1253	32	58.6	Shipped	Collectables For Less Inc.	7825 Douglas Av.	Brickhaven	MA	58339	USA
+10283	8/20/2020	1	Planes	S72_1253	43	57.61	Shipped	Royal Canadian Collectables, Ltd.	23 Tsawassen Blvd.	Tsawassen	BC	T2F 8M4	Canada
+10296	9/15/2020	10	Planes	S72_1253	21	45.19	Shipped	Bavarian Collectables Imports, Co.	Hansastr. 15	Munich		80686	Germany
+10307	10/14/2020	4	Planes	S72_1253	34	53.63	Shipped	Classic Gift Ideas, Inc	782 First Street	Philadelphia	PA	71270	USA
+10316	11/1/2020	12	Planes	S72_1253	34	43.7	Shipped	giftsbymail.co.uk	Garden House Crowther Way	Cowes	Isle of Wight	PO31 7PJ	UK
+10329	11/15/2020	8	Planes	S72_1253	44	86.13	Shipped	Land of Toys Inc.	897 Long Airport Avenue	NYC	NY	10022	USA
+10339	11/23/2020	6	Planes	S72_1253	27	76.31	Shipped	Tokyo Collectables, Ltd	2-2-8 Roppongi	Minato-ku	Tokyo	106-0032	Japan
+10352	12/3/2020	4	Planes	S72_1253	49	52.64	Shipped	Auto-Moto Classics Inc.	16780 Pompton St.	Brickhaven	MA	58339	USA
+10361	12/17/2020	12	Planes	S72_1253	23	95.2	Shipped	Souveniers And Things Co.	Monitor Money Building, 815 Pacific Hwy	Chatswood	NSW	2067	Australia
+10373	1/31/2021	9	Planes	S72_1253	25	64.97	Shipped	Oulu Toy Supplies, Inc.	Torikatu 38	Oulu		90110	Finland
+10386	3/1/2021	16	Planes	S72_1253	50	87.15	Resolved	Euro Shopping Channel	C/ Moralzarzal, 86	Madrid		28034	Spain
+10398	3/30/2021	1	Planes	S72_1253	34	40.22	Shipped	Reims Collectables	59 rue de l'Abbaye	Reims		51100	France
+10400	4/1/2021	4	Planes	S72_1253	20	56.12	Shipped	The Sharp Gifts Warehouse	3086 Ingle Ln.	San Jose	CA	94217	USA
+10415	5/9/2021	3	Planes	S72_1253	42	57.61	Disputed	Australian Collectables, Ltd	7 Allen Street	Glen Waverly	Victoria	3150	Australia
+10105	2/11/2019	8	Ships	S72_3212	25	56.78	Shipped	Danish Wholesale Imports	Vinb'ltet 34	Kobenhavn		1734	Denmark
+10117	4/16/2019	2	Ships	S72_3212	50	43.68	Shipped	Dragon Souveniers, Ltd.	Bronz Sok., Bronz Apt. 3/6 Tesvikiye	Singapore		79903	Singapore
+10129	6/12/2019	8	Ships	S72_3212	32	64.97	Shipped	Stylish Desk Decors, Co.	35 King George	London		WX3 6FW	UK
+10142	8/8/2019	5	Ships	S72_3212	39	44.23	Shipped	Mini Gifts Distributors Ltd.	5677 Strong St.	San Rafael	CA	97562	USA
+10153	9/28/2019	4	Ships	S72_3212	50	60.06	Shipped	Euro Shopping Channel	C/ Moralzarzal, 86	Madrid		28034	Spain
+10167	10/23/2019	15	Ships	S72_3212	38	48.59	Cancelled	Scandinavian Gift Ideas	Kergatan 24	Boras		S-844 67	Sweden
+10177	11/7/2019	6	Ships	S72_3212	40	50.23	Shipped	CAF Imports	Merchants House, 27-30 Merchant's Quay	Madrid		28023	Spain
+10185	11/14/2019	6	Ships	S72_3212	28	64.43	Shipped	Mini Creations Ltd.	4575 Hillside Dr.	New Bedford	MA	50553	USA
+10197	11/26/2019	12	Ships	S72_3212	42	50.23	Shipped	Enaco Distributors	Rambla de Catalua¤a, 23	Barcelona		8022	Spain
+10208	1/2/2020	6	Ships	S72_3212	42	63.88	Shipped	Saveley & Henriot, Co.	2, rue du Commerce	Lyon		69004	France
+10222	2/19/2020	18	Ships	S72_3212	36	63.34	Shipped	Collectable Mini Designs Co.	361 Furth Circle	San Diego	CA	91217	USA
+10232	3/20/2020	3	Ships	S72_3212	24	49.69	Shipped	giftsbymail.co.uk	Garden House Crowther Way	Cowes	Isle of Wight	PO31 7PJ	UK
+10248	5/7/2020	9	Ships	S72_3212	23	65.52	Cancelled	Land of Toys Inc.	897 Long Airport Avenue	NYC	NY	10022	USA
+10261	6/17/2020	7	Ships	S72_3212	29	50.78	Shipped	Quebec Home Shopping Network	43 rue St. Laurent	Montreal	Quebec	H1J 1C3	Canada
+10273	7/21/2020	10	Ships	S72_3212	37	45.86	Shipped	Petit Auto	Rue Joseph-Bens 532	Bruxelles		B-1180	Belgium
+10283	8/20/2020	12	Ships	S72_3212	33	51.32	Shipped	Royal Canadian Collectables, Ltd.	23 Tsawassen Blvd.	Tsawassen	BC	T2F 8M4	Canada
+10293	9/9/2020	1	Ships	S72_3212	32	60.06	Shipped	Amica Models & Co.	Via Monte Bianco 34	Torino		10100	Italy
+10306	10/14/2020	6	Ships	S72_3212	35	59.51	Shipped	AV Stores, Co.	Fauntleroy Circus	Manchester		EC2 5NT	UK
+10315	10/29/2020	5	Ships	S72_3212	40	55.69	Shipped	La Rochelle Gifts	67, rue des Cinquante Otages	Nantes		44000	France
+10327	11/10/2020	4	Ships	S72_3212	37	86.74	Resolved	Danish Wholesale Imports	Vinb'ltet 34	Kobenhavn		1734	Denmark
+10337	11/21/2020	5	Ships	S72_3212	42	97.16	Shipped	Classic Legends Inc.	5905 Pompton St.	NYC	NY	10022	USA
+10350	12/2/2020	15	Ships	S72_3212	20	100	Shipped	Euro Shopping Channel	C/ Moralzarzal, 86	Madrid		28034	Spain
+10373	1/31/2021	1	Ships	S72_3212	29	100	Shipped	Oulu Toy Supplies, Inc.	Torikatu 38	Oulu		90110	Finland
+10386	3/1/2021	4	Ships	S72_3212	43	100	Resolved	Euro Shopping Channel	C/ Moralzarzal, 86	Madrid		28034	Spain
+10397	3/28/2021	1	Ships	S72_3212	34	62.24	Shipped	Alpha Cognac	1 rue Alsace-Lorraine	Toulouse		31000	France
+10414	5/6/2021	9	Ships	S72_3212	47	65.52	On Hold	Gifts4AllAges.com	8616 Spinnaker Dr.	Boston	MA	51003	USA
